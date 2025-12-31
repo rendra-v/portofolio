@@ -179,11 +179,11 @@
                 Punya project menarik? Saya siap membantu mewujudkan ide Anda menjadi kenyataan
             </p>
             <div class="flex flex-col sm:flex-row gap-4 justify-center items-center">
-                <a href="mailto:your-email@example.com"
+                <a href="mailto:raflidika999@gmail.com?subject=Kerja%20Sama"
                    class="bg-white text-purple-700 font-semibold px-8 py-4 rounded-full hover:bg-gray-100 transition transform hover:scale-105">
                     📧 Email Saya
                 </a>
-                <a href="https://wa.me/6281234567890"
+                <a href="https://wa.me/6283133924555"
                    class="bg-green-500 text-white font-semibold px-8 py-4 rounded-full hover:bg-green-600 transition transform hover:scale-105">
                     💬 WhatsApp
                 </a>
@@ -196,10 +196,8 @@
         <div class="container mx-auto px-6 text-center">
             <p class="mb-4">&copy; 2025 Rafli Dika Rendra Arifin. All rights reserved.</p>
             <div class="flex justify-center space-x-6">
-                <a href="#" class="hover:text-white transition">GitHub</a>
-                <a href="#" class="hover:text-white transition">LinkedIn</a>
-                <a href="#" class="hover:text-white transition">Instagram</a>
-                <a href="#" class="hover:text-white transition">Twitter</a>
+                <a href="https://github.com/rendra-v" class="hover:text-white transition">GitHub</a>
+                <a href="https://www.linkedin.com/in/rafli-dika-a06037290/" class="hover:text-white transition">LinkedIn</a
             </div>
         </div>
     </footer>
